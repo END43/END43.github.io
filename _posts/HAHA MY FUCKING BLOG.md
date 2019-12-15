@@ -1,3 +1,0 @@
----
-title: HAHA MY FUCKING BLOG
-tags: BULLSHIT
